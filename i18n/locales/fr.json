@@ -1,0 +1,6 @@
+{
+    "views": {
+        "dashboard": "Tableau de bord",
+        "login": "Connexion"
+    }
+}

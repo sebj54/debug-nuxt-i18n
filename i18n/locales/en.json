@@ -1,0 +1,6 @@
+{
+    "views": {
+        "dashboard": "Dashboard",
+        "login": "Log in"
+    }
+}
